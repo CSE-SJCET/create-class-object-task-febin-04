@@ -21,6 +21,7 @@ class Student {
     // TODO: Create a method to display student details
 public class Main {
       public static void main(String[] args) {
+           
         Student student = new Student("John", 101, 'A');
         student.displayDetails();
         // TODO: Create a Student object and call the method to display details
